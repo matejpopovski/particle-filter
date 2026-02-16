@@ -1,6 +1,10 @@
 # Particle Filter Robotics Simulator  
 *A Java-based interactive simulator for probabilistic robot localization*
 
+### Animation Illustration
+
+![Localization Animation](images/animation.gif)
+
 ---
 
 ## Overview
